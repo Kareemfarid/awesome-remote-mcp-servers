@@ -753,7 +753,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - DeFi trading signals and market intelligence on Base; x402 pay-per-call in USDC.
 - [Kunkafa](https://kunkafa.com) `https://kunkafa.com/mcp`
   [![Kunkafa MCP connector](https://glama.ai/mcp/connectors/com.kunkafa/kunkafa/badges/score.svg)](https://glama.ai/mcp/connectors/com.kunkafa/kunkafa)
-  🔐 - Market forecasts for stocks, crypto, gold, oil and FX, with Kunkafa's confidence and its published track record.
+  🔓 - Market forecasts for stocks, crypto, gold, oil and FX with Kunkafa's confidence and track record; data needs OAuth.
 - [Kyrodata](https://kyrodata.com) `https://mcp.kyrodata.com/mcp`
   [![Kyrodata MCP connector](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata/badges/score.svg)](https://glama.ai/mcp/connectors/com.kyrodata/kyrodata)
   🔐 - Brazilian exports and imports by HS code and partner, plus crop production, climate and commodity forecasts.
